@@ -11,7 +11,7 @@ This repository contains the code and instructions for accessing your resources 
 
 ## Prerequisites
 
-Clone this repository (with `git` or download as a `.zip`) to a Linux or macOS system/container/Cloud Shell with the following tools installed:
+Clone this repository (with `git` or download as a `.zip` and extract) to a Linux or macOS system/container/Cloud Shell with the following tools installed:
 
 ### Kubernetes
 
