@@ -1,5 +1,10 @@
 # AWS Audit Preparation
 
+## Prerequisites
+
+- [ ] AWS CLI configured with sufficient permissions to create IAM roles and policies.
+- [ ] Terraform installed.
+
 ## Creating a Cross-Account Role for Audit with Terraform
 
 1. Initialize Terraform:

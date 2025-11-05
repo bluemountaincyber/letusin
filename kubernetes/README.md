@@ -1,5 +1,10 @@
 # Kubernetes Audit Preparation
 
+## Prerequisites
+
+- [ ] Access to the Kubernetes cluster with sufficient permissions to create resources (e.g., `ClusterAdmin` role).
+- [ ] `kubectl` configured to communicate with the target Kubernetes cluster.
+
 ## Run Kube-Bench
 
 1. Deploy `kube-bench` to perform automated checks of environment:
